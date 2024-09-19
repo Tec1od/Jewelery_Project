@@ -1,3 +1,2 @@
-
-const titile = document.getElementById("titile");
-titile.innerHTML = "hello world";
+const title = document.getElementById('title')
+title.innerHTML = 'My Project';

@@ -1,9 +1,12 @@
-
-
-
-
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  align-items: center;
+}
 
 h1 {
-  color: aqua; 
-  text-align: center;
+  font-size: 4px;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
 }

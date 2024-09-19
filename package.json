@@ -286,5 +286,12 @@
     "yallist": "^3.1.1",
     "yocto-queue": "^1.1.1"
   },
-  "description": "Jewelry  project with a responsive and with advanced feature use HTML CSS JAVASCRIPT"
-}
+  "description": "Jewelry  project with a responsive and with advanced feature use HTML CSS JAVASCRIPT",
+  
+    "extends": "stylelint-config-standard",
+    "rules": {
+      
+    }
+  }
+  
+
