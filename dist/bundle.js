@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log(\"Hello, that is react\");\nalert(\"What are you doing\");\n\n//# sourceURL=webpack://jewelery_project/./src/index.js?");
+eval("var titile = document.getElementById(\"titile\");\ntitile.innerHTML = \"hello world\";\n\n//# sourceURL=webpack://jewelery_project/./src/index.js?");
 
 /***/ })
 

@@ -1,4 +1,3 @@
-console.log("Hello, that is react")
 
-
-alert("What are you doing")
+const titile = document.getElementById("titile");
+titile.innerHTML = "hello world";
